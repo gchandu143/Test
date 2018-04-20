@@ -3,11 +3,11 @@
 <style>
 table {
     border-collapse: collapse;
-    border-radius: 100px;
+    border-radius: 150px;
 }
 
 table, td, th {
-    border: 1px solid red;
+    border: 1px solid blue;
 }
 </style>
 </head>
